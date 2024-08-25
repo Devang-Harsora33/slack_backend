@@ -19,7 +19,7 @@ module.exports = {
     return Modal({
       title: "Create new task",
       submit: "Create",
-      callbackId: "new-task-modal",
+      callbackId: "asdasd",
     })
       .blocks(
         Blocks.Input({ label: "New task", blockId: "taskTitle" }).element(
